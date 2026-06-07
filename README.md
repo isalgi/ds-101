@@ -11,6 +11,7 @@ Kumpulan notebook praktikum mata kuliah Data Science dengan fokus pada rantai pa
 | 12 | Reverse Logistics + AI Vision | [pertemuan-12.ipynb](pertemuan-12.ipynb) |
 | 13 | Information Flows and Technology (Supply Chain Copilot) | [pertemuan-13.ipynb](pertemuan-13.ipynb) |
 | 14 | Transportation in Supply Chains (Route Optimization) | [pertemuan-14.ipynb](pertemuan-14.ipynb) |
+| 15 | Global Supply Chain (Studi Kasus: Suez Canal Blockage 2021) | [pertemuan-15.ipynb](pertemuan-15.ipynb) |
 
 ## Prerequisites
 
@@ -43,6 +44,7 @@ ds-101/
 ├── pertemuan-12.ipynb
 ├── pertemuan-13.ipynb
 ├── pertemuan-14.ipynb
+├── pertemuan-15.ipynb
 ├── .env          # tidak di-commit (lihat .gitignore)
 └── .gitignore
 ```

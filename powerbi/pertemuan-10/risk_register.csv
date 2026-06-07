@@ -1,0 +1,5 @@
+risk_id,deskripsi,likelihood,impact,mitigation,likelihood_skor,impact_skor,skor_risiko
+R01,Stok beras turun drastis,Tinggi,Tinggi,Impor darurat / cadangan pemerintah,3,3,9
+R02,Harga beras naik tidak terkendali,Tinggi,Tinggi,Operasi pasar / subsidi,3,3,9
+R03,Curah hujan ekstrem merusak panen,Sedang,Tinggi,Asuransi pertanian,2,3,6
+R04,Produksi padi menurun,Tinggi,Sedang,Intensifikasi pertanian,3,2,6
